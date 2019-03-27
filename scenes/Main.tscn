@@ -69,19 +69,20 @@ rect_scale = Vector2( 0.3, 0.3 )
 texture_normal = ExtResource( 2 )
 
 [node name="btnYellow" type="TextureButton" parent="Control/P2"]
-margin_left = 15.0889
-margin_top = 406.913
-margin_right = 315.089
-margin_bottom = 706.913
+margin_left = 100.0
+margin_top = 545.0
+margin_right = 400.0
+margin_bottom = 845.0
 rect_rotation = 180.0
 rect_scale = Vector2( 0.3, 0.3 )
 texture_normal = ExtResource( 3 )
 
 [node name="btnBlack" type="TextureButton" parent="Control/P2"]
-margin_left = 21.2405
-margin_top = 264.302
-margin_right = 321.241
-margin_bottom = 564.302
+margin_left = 100.0
+margin_top = 460.0
+margin_right = 400.0
+margin_bottom = 760.0
+rect_rotation = 180.0
 rect_scale = Vector2( 0.3, 0.3 )
 texture_normal = ExtResource( 4 )
 
